@@ -1,15 +1,20 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
+translated_title,Translated Title,true,,DCTERMS:alternative,alternativeHeadline
+creator,Author,true,,DCTERMS.creator,creator
+committee_member,Committee Member,,,DCTERMS:contributor,contributor
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
+subject,Subject,true,,DCTERMS.subject,keywords
+language,Language,true,,DCTERMS:language,inLanguage
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
+type,Type,,,DCTERMS.type,additionalType
 format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
+language,Language,true,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
+thesis_degree_grantor,Grantor,,,,recognizedBy
+thesis_degree_discipline,Degree Discipline,,,,credentialCategory
