@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created,
-description,Description,,true,
+description,Abstract,,,,,
 creator,Author,,,Author,,
 subject,Subject,true,,,
 location,,,,,,
