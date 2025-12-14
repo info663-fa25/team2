@@ -4,7 +4,7 @@ translated_title,Translated Title,true,,DCTERMS:alternative,alternativeHeadline
 creator,Author,true,,DCTERMS.creator,creator
 committee_member,Committee Member,,,DCTERMS:contributor,contributor
 date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
+description,Abstract,,,DCTERMS.description,abstract
 subject,Subject,true,,DCTERMS.subject,keywords
 language,Language,true,,DCTERMS:language,inLanguage
 location,Location,,,,contentLocation
