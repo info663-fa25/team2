@@ -1,7 +1,13 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
-description,,,true,
-creator,Creator,,,
-subject,,true
-location,,true,,,Location Depicted
+description,Description,,true,
+creator,Author,,,Author,,
+subject,Subject,true,,,
+location,,,,,,
 identifier,,,true,Identifier
+title,Title,,,Title,
+translated_title,Translated Title,,,Translated Title,
+language,Language,,,Language,
+committee_member,Committee Member,,,Committee Member,
+thesis_degree_level,Degree Level,true,,Degree Level,
+thesis_degree_discipline,Degree Discipline,,,Degree Discipline,
