@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Team 2 CollectionBuilder CSV
+title: TTeam 2: Electronic theses/dissertations (ETDs)
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Electronic Theses and Dissertations
+tagline: Metadata Design | Professor Alexandra Provo | Fall 2025
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Info 663 Autumn 2025"
+description: "Project Collaborators: Willem Helf, Bria Pickel, MJ Ray, Yuan Sciscent"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
