@@ -1,10 +1,10 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created,
-description,Abstract,,,,,
+description,Abstract,,,,
 creator,Author,,,Author,,
-subject,Subject,true,,,
+subject,Subject,true,,,Subject,
 location,,,,,,
-identifier,,,true,Identifier
+identifier,,,true,Identifier,
 title,Title,,,Title,
 translated_title,Translated Title,,,Translated Title,
 language,Language,,,Language,
